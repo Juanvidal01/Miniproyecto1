@@ -110,4 +110,3 @@ El **Gestor de Tareas** ofrece una solución efectiva para la organización pers
 
 ---
 
-¡Listo! 🚀 Ahora tu README es claro, profesional y está estructurado para que cualquiera entienda el propósito y funcionamiento del proyecto. ¿Qué te parece? ¿Necesitas agregar algo más? 😄
